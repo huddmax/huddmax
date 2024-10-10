@@ -19,8 +19,9 @@ Sou um estudante de Engenharia de Software com foco em desenvolvimento Full Stac
 
 Sinta-se à vontade para me contatar através das redes sociais ou conferir meus projetos no GitHub!
 
-- [GitHub](https://github.com/huddmax)
-- [LinkedIn](https://www.linkedin.com/in/hudson-machado-03346024b)
+
+[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/huddmax)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hudson-machado-03346024b)
 
 ## 🌱 Estou sempre aprendendo!
 
