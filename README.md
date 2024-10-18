@@ -1,30 +1,31 @@
-# Olá, sou Hudson Machado!
+## Hello, I'm Hudson Machado!
 
-Sou um estudante de Engenharia de Software com foco em desenvolvimento Full Stack. Atualmente, estou mergulhando em projetos que envolvem tecnologias como Node.js e React, e estou sempre em busca de aprender mais sobre desenvolvimento web e outras áreas da tecnologia.
+I'm a Software Engineering student focused on Full Stack development. Currently, I'm diving into projects that involve technologies like Node.js and React, and I'm always looking to learn more about web development and other areas of technology.
 
-## 🚀 O que estou fazendo atualmente
+## 🚀 What I'm currently working on
 
-- Trabalhando em um projeto de menu interativo chamado **Food Explorer**, onde desenvolvo tanto o front-end quanto o back-end.
-- Aprendendo sobre Docker e como integrar contêineres em minhas aplicações.
-- Estudando TypeScript para aprimorar meus projetos em JavaScript.
+Developing an interactive menu project called Food Explorer, where I work on both front-end and back-end.
+Learning Docker and how to integrate containers into my applications.
+Studying TypeScript to enhance my JavaScript projects.
+##🛠️ Technologies I use
 
-## 🛠️ Tecnologias que uso
+Front-end: React, styled-components
+Back-end: Node.js, Express
+Databases: PostgreSQL, MySQL, Knex
+Tools: Git, GitHub, Axios, CORS
 
-- **Front-end**: React, styled-components
-- **Back-end**: Node.js, Express
-- **Banco de Dados**: PostgreSQL, MySQL, Knex
-- **Ferramentas**: Git, GitHub, Axios, CORS
+## 📫 Let's connect!
 
-## 📫 Vamos nos conectar!
-
-Sinta-se à vontade para me contatar através das redes sociais ou conferir meus projetos no GitHub!
-
+Feel free to reach out to me through social media or check out my projects on GitHub!
 
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/huddmax)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hudson-machado-03346024b)
 
-## 🌱 Estou sempre aprendendo!
 
-Estou sempre em busca de novos desafios e aprendizados. Se você tem dicas, recursos ou oportunidades, adoraria ouvir!
+## 🌱 I'm always learning!
 
-Obrigado por visitar meu perfil! 🚀
+I'm constantly seeking new challenges and knowledge. If you have tips, resources, or opportunities, I'd love to hear from you!
+
+Thank you for visiting my profile! 🚀
+
+
