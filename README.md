@@ -7,7 +7,8 @@ I'm a Software Engineering student focused on Full Stack development. Currently,
 Developing an interactive menu project called Food Explorer, where I work on both front-end and back-end.
 Learning Docker and how to integrate containers into my applications.
 Studying TypeScript to enhance my JavaScript projects.
-##🛠️ Technologies I use
+
+## 🛠️ Technologies I use
 
 Front-end: React, styled-components
 Back-end: Node.js, Express
