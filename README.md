@@ -32,7 +32,7 @@ Thank you for visiting my profile! 🚀
 
 <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,typescript,nodejs,javascript,react,css,html,express,jest,styledcomponents,vite,postgres,docker,github" />
+  <img src="https://skillicons.dev/icons?i=git,typescript,nodejs,javascript,react,css,html,postgres,docker,github" />
 </a>
   <br />
 
