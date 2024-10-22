@@ -30,3 +30,10 @@ I'm constantly seeking new challenges and knowledge. If you have tips, resources
 Thank you for visiting my profile! 🚀
 
 
+<div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,nodejs,express,docker,figma,github,jest,styledcomponents,vite,postgres,discord,linkedin" />
+</a>
+  <br />
+
+  </div>
