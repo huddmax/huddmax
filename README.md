@@ -1,6 +1,6 @@
 ## Hello, I'm Hudson Machado!
 
-I'm a Software Engineering student focused on Full Stack development. Currently, I'm diving into projects that involve technologies like Node.js and React, and I'm always looking to learn more about web development and other areas of technology.
+I'm a FullStack developer. Currently, I'm diving into projects that involve technologies like Node.js and React, and I'm always looking to learn more about web development and other areas of technology.
 
 ## 🚀 What I'm currently working on
 
